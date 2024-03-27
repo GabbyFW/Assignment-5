@@ -1,4 +1,4 @@
-# Assignment-5 
+# Assignment-5 (VG Sales)
 ### Short description 
 A Python module called Lab2.ipynb makes it possible to connect, access, and read data using SQL. Additionally, the file provides a step-by-step tutorial on how to read and write data to databases. This repository contains Python scripts that show you how to use pandas in combination with SQL databases for data preprocessing. The scripts that are offered include importing data from a CSV file, executing basic and advanced SQL queries, and filtering and manipulating data using pandas.
 ## Getting Started 
