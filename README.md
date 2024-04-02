@@ -14,7 +14,7 @@ Confirm that the CSV file can be imported into a pandas’ data frame and check 
 ## Deployment 
 Not Applicable because this code will not be deployed on live data.
 ## Author
-Gabrielle Walters - [GabbyFW](https://github.com/GabbyFW)
+Omar Al-Trad - (https://github.com/GabbyFW)
 ## License
 The project is licensed under the MIT License - see the "License" file for details.
 ## Acknowledgement
